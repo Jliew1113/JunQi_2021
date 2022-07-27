@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Rtuanzhang.png</file>
+        <file>Btuanzhang.png</file>
+        <file>Rzhadan.png</file>
+        <file>Bzhadan.png</file>
+        <file>hidden.png</file>
+        <file>hidden1.png</file>
+        <file>Ryingzhang.png</file>
+        <file>Byingzhang.png</file>
+        <file>Rjunzhang.png</file>
+        <file>Bjunzhang.png</file>
+        <file>Rflag.png</file>
+        <file>Bflag.png</file>
+        <file>board.png</file>
+        <file>Rmine.png</file>
+        <file>Bmine.png</file>
+        <file>Rgongbing.png</file>
+        <file>Bgongbing.png</file>
+        <file>Rsiling.png</file>
+        <file>Bsiling.png</file>
+        <file>Rlvzhang.png</file>
+        <file>Blvzhang.png</file>
+        <file>Rlianzhang.png</file>
+        <file>Blianzhang.png</file>
+        <file>Rshizhang.png</file>
+        <file>Bshizhang.png</file>
+        <file>Rpaizhang.png</file>
+        <file>Bpaizhang.png</file>
+        <file>background.png</file>
+        <file>hide.png</file>
+    </qresource>
+</RCC>
